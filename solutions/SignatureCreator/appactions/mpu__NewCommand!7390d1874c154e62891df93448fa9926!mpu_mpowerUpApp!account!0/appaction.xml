@@ -1,0 +1,29 @@
+<appaction uniquename="mpu__NewCommand!7390d1874c154e62891df93448fa9926!mpu_mpowerUpApp!account!0">
+  <appmoduleid>
+    <uniquename>mpu_mpowerUpApp</uniquename>
+  </appmoduleid>
+  <buttonlabeltext default="NewCommand">
+    <label description="NewCommand" languagecode="1033" />
+  </buttonlabeltext>
+  <buttonsequencepriority>15.0000000000</buttonsequencepriority>
+  <context>1</context>
+  <contextentity>
+    <logicalname>account</logicalname>
+  </contextentity>
+  <contextvalue>account</contextvalue>
+  <hidden>0</hidden>
+  <iscustomizable>1</iscustomizable>
+  <isgrouptitlehidden>0</isgrouptitlehidden>
+  <location>0</location>
+  <name>NewCommand!7390d1874c154e62891df93448fa9926</name>
+  <onclickeventformulacomponentlibraryid>
+    <name>mpu_mpowerupappdefaultcommandlibrary_7641d</name>
+  </onclickeventformulacomponentlibraryid>
+  <onclickeventformulacomponentname>82f78442100d490c890e6010219a52f9</onclickeventformulacomponentname>
+  <onclickeventformulafunctionname>OnSelect</onclickeventformulafunctionname>
+  <onclickeventtype>1</onclickeventtype>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <type>0</type>
+  <visibilitytype>0</visibilitytype>
+</appaction>
