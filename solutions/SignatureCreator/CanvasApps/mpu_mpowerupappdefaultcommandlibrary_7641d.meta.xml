@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>mpu_mpowerupappdefaultcommandlibrary_7641d</Name>
+  <AppVersion>2022-06-24T09:53:07Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.22062.5.0</CreatedByClientVersion>
+  <MinClientVersion>3.22062.5.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"20220624T093140Z-3.22062.5.0","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.22062.5","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(251,101,60,255)</BackgroundColor>
+  <DisplayName>mpowerUpApp_DefaultCommandLibrary</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{}</ConnectionReferences>
+  <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Accounts":{"entitySetName":"accounts","logicalName":"account"},"Environment Variable Definitions":{"entitySetName":"environmentvariabledefinitions","logicalName":"environmentvariabledefinition"},"Environment Variable Values":{"entitySetName":"environmentvariablevalues","logicalName":"environmentvariablevalue"}}}}</DatabaseReferences>
+  <AppComponents>[{"appComponentName":"82f78442100d490c890e6010219a52f9","displayName":"NewCommand_1","appName":"50cc402a-e429-4bb2-bf8e-2952df7d1389","appVersion":"2022-06-24T09:53:07Z","appComponentLibraryLogicalName":"mpu_mpowerupappdefaultcommandlibrary_7641d","appDisplayName":"mpowerUpApp_DefaultCommandLibrary","environmentName":"db6a9ab0-569e-e69b-ac5c-c85652c3aba8","owner":{"id":"9f18b401-d051-4544-932a-c943a9ff32b0","displayName":"Jin Chung","email":"jinchung@mpowerup.cloud","type":"User","tenantId":"a2436ccf-193e-4124-8e9a-ae1b60d026ef","userPrincipalName":"jinchung@mpowerup.cloud"},"allowCustomization":true,"createdOn":"2022-06-24T08:04:21.675Z","lastModifiedOn":"2022-06-24T09:47:29.416Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Accounts":{"entitySetName":"accounts","logicalName":"account"},"Environment Variable Definitions":{"entitySetName":"environmentvariabledefinitions","logicalName":"environmentvariabledefinition"},"Environment Variable Values":{"entitySetName":"environmentvariablevalues","logicalName":"environmentvariablevalue"}}}}},{"appComponentName":"5b23af54988742ddb32563ae897523aa","displayName":"Component1","appName":"50cc402a-e429-4bb2-bf8e-2952df7d1389","appVersion":"2022-06-24T09:53:07Z","appComponentLibraryLogicalName":"mpu_mpowerupappdefaultcommandlibrary_7641d","appDisplayName":"mpowerUpApp_DefaultCommandLibrary","environmentName":"db6a9ab0-569e-e69b-ac5c-c85652c3aba8","owner":{"id":"9f18b401-d051-4544-932a-c943a9ff32b0","displayName":"Jin Chung","email":"jinchung@mpowerup.cloud","type":"User","tenantId":"a2436ccf-193e-4124-8e9a-ae1b60d026ef","userPrincipalName":"jinchung@mpowerup.cloud"},"allowCustomization":true,"createdOn":"2022-06-24T08:04:21.675Z","lastModifiedOn":"2022-06-24T09:47:29.416Z","connectionReferences":{},"databaseReferences":{"default.cds":{"databaseDetails":{"referenceType":"NotSpecified","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Accounts":{"entitySetName":"accounts","logicalName":"account"},"Environment Variable Definitions":{"entitySetName":"environmentvariabledefinitions","logicalName":"environmentvariabledefinition"},"Environment Variable Values":{"entitySetName":"environmentvariablevalues","logicalName":"environmentvariablevalue"}}}}}]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>1</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"logicalname":"account","componenttype":1},{"logicalname":"environmentvariabledefinition","componenttype":1},{"logicalname":"environmentvariablevalue","componenttype":1}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/mpu_mpowerupappdefaultcommandlibrary_7641d_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/mpu_mpowerupappdefaultcommandlibrary_7641d_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
